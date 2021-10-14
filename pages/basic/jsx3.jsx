@@ -4,7 +4,7 @@ export default function jsx3(){
             <h1 className="title">
                 Um titílo 
             </h1>
-            <span>um span</span>
+            <span>um span </span>
         </div>
     ) 
 }
